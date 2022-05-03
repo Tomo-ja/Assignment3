@@ -13,6 +13,7 @@
 		E5157937281B7D7A00330BC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5157935281B7D7A00330BC2 /* Main.storyboard */; };
 		E5157939281B7D7B00330BC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5157938281B7D7B00330BC2 /* Assets.xcassets */; };
 		E515793C281B7D7B00330BC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E515793A281B7D7B00330BC2 /* LaunchScreen.storyboard */; };
+		E59A88DC2821D01300242D54 /* FastForwardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59A88DB2821D01300242D54 /* FastForwardViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E5157938281B7D7B00330BC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E515793B281B7D7B00330BC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E515793D281B7D7B00330BC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E59A88DB2821D01300242D54 /* FastForwardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastForwardViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E515792F281B7D7A00330BC2 /* AppDelegate.swift */,
 				E5157931281B7D7A00330BC2 /* SceneDelegate.swift */,
 				E5157933281B7D7A00330BC2 /* ViewController.swift */,
+				E59A88DB2821D01300242D54 /* FastForwardViewController.swift */,
 				E5157935281B7D7A00330BC2 /* Main.storyboard */,
 				E5157938281B7D7B00330BC2 /* Assets.xcassets */,
 				E515793A281B7D7B00330BC2 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E59A88DC2821D01300242D54 /* FastForwardViewController.swift in Sources */,
 				E5157934281B7D7A00330BC2 /* ViewController.swift in Sources */,
 				E5157930281B7D7A00330BC2 /* AppDelegate.swift in Sources */,
 				E5157932281B7D7A00330BC2 /* SceneDelegate.swift in Sources */,
